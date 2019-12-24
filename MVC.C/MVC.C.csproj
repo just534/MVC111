@@ -150,6 +150,9 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="static\css\maincss.css" />
+    <Content Include="static\font\font\iconfont.svg" />
+    <Content Include="static\font\iconfont.css" />
     <Content Include="static\layui\css\layui.css" />
     <Content Include="static\layui\css\layui.mobile.css" />
     <Content Include="static\layui\css\modules\code.css" />
@@ -271,6 +274,10 @@
     <Content Include="static\layui\font\iconfont.woff" />
     <Content Include="Views\Course\Index.cshtml" />
     <Content Include="Views\News\Index.cshtml" />
+    <Content Include="static\font\font\iconfont.eot" />
+    <Content Include="static\font\font\iconfont.ttf" />
+    <Content Include="static\font\font\iconfont.woff" />
+    <Content Include="static\font\font\iconfont.woff2" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
